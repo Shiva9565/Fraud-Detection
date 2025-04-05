@@ -118,6 +118,4 @@ To verify if prevention methods work:
 - Compare F1-score of historical and new model predictions
 - A/B test new infrastructure with a control group
 
----
 
-Let me know if you'd like this README file exported as `.md` or pushed to a GitHub structure!
